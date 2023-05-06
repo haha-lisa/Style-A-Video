@@ -1,5 +1,5 @@
-# Style-A-Video
-# Agile Diffusion for Arbitrary Text-based Video Style Transfer
+# Style-A-Video: Agile Diffusion for Arbitrary Text-based Video Style Transfer
+
 This is the official PyTorch implementation of the paper [''Style-A-Video: Agile Diffusion for Arbitrary Text-based Video Style Transfer'']
 
 ## Teaser

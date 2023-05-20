@@ -1,6 +1,7 @@
 # Style-A-Video: Agile Diffusion for Arbitrary Text-based Video Style Transfer
 
-This is the official PyTorch implementation of the paper [''Style-A-Video: Agile Diffusion for Arbitrary Text-based Video Style Transfer'']
+This is the official PyTorch implementation of the paper [''Style-A-Video: Agile Diffusion for Arbitrary Text-based Video Style Transfer''](https://arxiv.org/abs/2305.05464)
+(coming soon!🧐)
 
 ## Teaser
 ![MAIN3_e2-min](https://github.com/haha-lisa/Style-A-Video/blob/main/teaser13.png)
